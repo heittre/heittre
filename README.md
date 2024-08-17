@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chamudi Siriwardhane</h1>
 <h3 align="center">an undergraduate student at University Of Colombo School Of Computing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heittre&label=Profile%20views&color=0e75b6&style=flat" alt="heittre" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=heittre&label=Profile%20views&color=0e75b6&style=flat" alt="heittre" /> </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-FullStack-brightgreen" />
