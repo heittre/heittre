@@ -24,7 +24,7 @@
   -  [StayMate](https://github.com/GaveeshaWickrama/StayMate) - A Property Management System where property owners can list their properties and tenants can rent properties. Property owners can also find technicians to repair property damages.
   -  [JobLinkUp](https://github.com/iamtrazy/JobLinkUp) :  A job portal that allows job recruiters to publish their job listings and job seekers to find jobs.
   -  Library Management System using Java - (https://github.com/heittre/Library-Management-System)
-  -  My Portfolio is still in works - <button >  <a href="https://heittre.github.io/portfolio/" style="text-decoration:none"> Visit Site </a> </button> 
+  -  My Portfolio is still in works - <button >  <a href="https://chamudi-siriwardhane.netlify.app/" style="text-decoration:none"> Visit Site </a> </button> 
 
 
 
