@@ -25,7 +25,7 @@
   -  [JobLinkUp](https://github.com/iamtrazy/JobLinkUp) :  A job portal that allows job recruiters to publish their job listings and job seekers to find jobs. URL:  https://joblinkup.duckdns.org/
   -  Library Management System using Java - (https://github.com/heittre/Library-Management-System)
   -  My Portfolio is still in works - <button >  <a href="https://chamusiriwardhane.netlify.app/" style="text-decoration:none"> Visit Site </a> </button> 
-     https://github.com/heittre/portfolio)
+     (https://github.com/heittre/portfolio)
 
 
 
