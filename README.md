@@ -13,8 +13,8 @@
 
 <h3 align="left">About Me</h3>
 
-  - I am passionate about full-stack Development  
-  - I’m currently learning **Spring Boot**
+  - I am passionate about Automation testing, Cloud Technologies and AI/ML technologies 
+  - I’m currently learning **Cypress**
   - Email: **chamudisiriwardena@gmail.com**
 
 
@@ -23,10 +23,14 @@
 
   -  [StayMate](https://github.com/GaveeshaWickrama/StayMate) - A Property Management System where property owners can list their properties and tenants can rent properties. Property owners can also find technicians to repair property damages.
   -  [JobLinkUp](https://github.com/iamtrazy/JobLinkUp) :  A job portal that allows job recruiters to publish their job listings and job seekers to find jobs. URL:  https://joblinkup.duckdns.org/
-  -  Library Management System using Java - (https://github.com/heittre/Library-Management-System)
-  -  My Portfolio is still in works - <button >  <a href="https://chamusiriwardhane.netlify.app/" style="text-decoration:none"> Visit Site </a> </button> 
+  -  Library Management System (Java) - (https://github.com/heittre/Library-Management-System)
+  -  Portfolio - <button >  <a href="https://chamusiriwardhane.netlify.app/" style="text-decoration:none"> Visit Site </a> </button> 
      (https://github.com/heittre/portfolio)
-  -  I am currently developing a Tournament Tracker App with C# and.NET [Repo](https://github.com/heittre/tournament_tracker)
+  -  Tournament Tracker App with C# and.NET [Repo](https://github.com/heittre/tournament_tracker)
+  -  Selenium Automation Project
+  -  Cypress Automation Project
+  -  Cognitive distortion classification with XAI integration (Research)
+  -  Sales forecasting Time Series prediction with Tensorflow
 
 
 
