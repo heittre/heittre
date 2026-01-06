@@ -14,27 +14,8 @@
 <h3 align="left">About Me</h3>
 
   - I am passionate about Automation testing, Cloud Technologies and AI/ML technologies 
-  - I’m currently learning **Cypress**
+  - I’m currently learning **Cypress** and **Selenium**
   - Email: **chamudisiriwardena@gmail.com**
-
-
-
-<h3 align="left">My Projects</h3>
-
-  -  [StayMate](https://github.com/GaveeshaWickrama/StayMate) - A Property Management System where property owners can list their properties and tenants can rent properties. Property owners can also find technicians to repair property damages.
-  -  [JobLinkUp](https://github.com/iamtrazy/JobLinkUp) :  A job portal that allows job recruiters to publish their job listings and job seekers to find jobs. URL:  https://joblinkup.duckdns.org/
-  -  Library Management System (Java) - (https://github.com/heittre/Library-Management-System)
-  -  Portfolio - <button >  <a href="https://chamusiriwardhane.netlify.app/" style="text-decoration:none"> Visit Site </a> </button> 
-     (https://github.com/heittre/portfolio)
-  -  Tournament Tracker App with C# and.NET [Repo](https://github.com/heittre/tournament_tracker)
-  -  Selenium Automation Project
-  -  Cypress Automation Project
-  -  Cognitive distortion classification with XAI integration (Research)
-  -  Sales forecasting Time Series prediction with Tensorflow
-
-
-
-
 
 
 <h3 align="left"> My Languages and Tools:</h3>
